@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "configFiles" : [
+        "D:/STM32_VS_Code/ARMtools/OpenOCD-20210729-0.11.0/share/openocd/scripts/interface/stlink-v2-1.cfg",
+        "D:/STM32_VS_Code/ARMtools/OpenOCD-20210729-0.11.0/share/openocd/scripts/target/stm32f1x.cfg"
+    ]
+}
